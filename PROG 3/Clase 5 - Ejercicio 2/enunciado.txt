@@ -1,0 +1,8 @@
+org.pucp.interfaces
+	- IConsultable.java
+org.pucp.personal
+	- Persona.java
+org.pucp.investigadores
+	- Investigadro.cs
+org.pucp.principales
+	- Principal.java

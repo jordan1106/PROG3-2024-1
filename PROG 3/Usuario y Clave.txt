@@ -1,0 +1,5 @@
+usuario maestro: admin
+password: prog3softprog
+nombre de la base de datos: prog3
+Punto de enlace
+db-prog3-softprog.cifcsbehaca5.us-east-1.rds.amazonaws.com

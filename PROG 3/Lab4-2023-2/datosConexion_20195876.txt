@@ -1,0 +1,4 @@
+hostname:lp2-labs-inf282-2023-2.cifcsbehaca5.us-east-1.rds.amazonaws.com
+username:master
+password:lp2labsinf282
+nombre de la BD: lp2-labs-inf282-2023-2

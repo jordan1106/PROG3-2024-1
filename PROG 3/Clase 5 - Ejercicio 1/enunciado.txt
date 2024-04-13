@@ -1,0 +1,5 @@
+org.pucp.personal
+	- Persona.java
+	- IConsultable.java
+org.pucp.principales
+	- Principal.java
